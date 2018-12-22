@@ -1,0 +1,13 @@
+.list {
+  margin-bottom: 20px;
+}
+
+.toDo {
+  font-size: 21px;
+}
+
+.toDo_button {
+  margin-right: 10px;
+  cursor: pointer;
+  color: #c33b3b;
+}
