@@ -8,7 +8,6 @@ A clone of the productivity chrome app Momentum on Vanilla JS
 - [x] To Do List
 - [x] Weather
 - [x] Daily Photo
-- [x] Offline Support
 
 ## Try it out
 
